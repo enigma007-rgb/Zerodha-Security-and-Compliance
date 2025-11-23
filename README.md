@@ -73,8 +73,7 @@ Because Zerodha self-hosts everything:
 2.  **Instant Audit:** They can write a SQL query to answer: *"Show me every engineer who accessed the User Database between 2:00 PM and 2:05 PM on Tuesday."*
 3.  **Cost:** Keeping these audit logs for 7 years (regulatory requirement) on ClickHouse costs "peanuts" (disk space). Keeping 7 years of logs on a SaaS tool like Splunk would cost a fortune.
 
-**Next Step:**
-Would you like me to detail the **"Talent Profile"** required to run this? (i.e., What specific skills does a Zerodha engineer possess that a typical "Cloud Native" developer might lack?)
+
 
 ========================================
 
